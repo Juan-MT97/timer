@@ -1,0 +1,12 @@
+button {
+    margin: 1rem;
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 3rem;
+    background-color: wheat;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: whitesmoke;
+}
