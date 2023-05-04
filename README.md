@@ -1,1 +1,1 @@
-# timer
+# Timer (React + Tailwind)
